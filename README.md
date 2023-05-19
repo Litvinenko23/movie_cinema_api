@@ -41,4 +41,5 @@ docker-compose up
 - Filtering movies and movie sessions
 
 ### Endpoints
-
+![image](https://github.com/Litvinenko23/movie_cinema_api/assets/64659599/83146522-1b65-4837-9aa5-02fef0618b3e)
+![image](https://github.com/Litvinenko23/movie_cinema_api/assets/64659599/d42fbf53-e45f-4d91-9c61-15845625bc0f)
